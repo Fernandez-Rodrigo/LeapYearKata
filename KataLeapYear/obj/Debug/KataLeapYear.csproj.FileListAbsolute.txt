@@ -1,0 +1,6 @@
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\bin\Debug\KataLeapYear.dll
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\bin\Debug\KataLeapYear.pdb
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\obj\Debug\KataLeapYear.csproj.AssemblyReference.cache
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\obj\Debug\KataLeapYear.csproj.CoreCompileInputs.cache
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\obj\Debug\KataLeapYear.dll
+C:\Users\Patri\source\repos\KataLeapYearTest\KataLeapYear\obj\Debug\KataLeapYear.pdb
